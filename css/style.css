@@ -1,0 +1,37 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    font-size:16px;
+    font-weight:normal;
+    line-height:1.6em;
+    background-color: #707070;
+}
+
+.container {
+    width: 700px;
+    margin:auto;
+    margin-bottom:10px;
+    border: 2px black solid;
+    padding: 10px;
+    background-color: #747474;
+    color: #5F2E30;
+}
+
+.clr{
+    clear:both;
+}
+
+a{
+    text-decoration: none;
+    color:#000;
+}
+
+.box2{
+    background-image:url('../images/tan.png');
+    background-position: center right;
+    background-size: 70%;
+    width:800px;
+    height:500px;
+    background-repeat: no-repeat;
+    margin-top:30px;
+    position:relative;
+}

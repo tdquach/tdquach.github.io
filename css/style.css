@@ -1229,7 +1229,7 @@ input::-moz-focus-inner {
   color: #000000;
   letter-spacing: -0.03rem;
   margin-top: 0;
-  margin-bottom: 4.8rem;
+  margin-bottom: 1.8rem;
 }
 .display-1--light {
   color: #ffffff;
@@ -1237,7 +1237,7 @@ input::-moz-focus-inner {
 
 .subhead {
   font-family: "metropolis-semibold", sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   line-height: 1.3125;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
@@ -1255,12 +1255,12 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1400px) {
   .display-1 {
-    font-size: 2.6rem;
+    font-size: 2.1rem;
   }
 }
 @media only screen and (max-width: 1200px) {
   .display-1 {
-    font-size: 2.2rem;
+    font-size: 1.9rem;
   }
 }
 @media only screen and (max-width: 950px) {
@@ -1271,7 +1271,7 @@ input::-moz-focus-inner {
 @media only screen and (max-width: 800px) {
   .display-1 {
     font-size: 1.2rem;
-    margin-bottom: 4.2rem;
+    margin-bottom: 1.8rem;
   }
 
   .subhead {
@@ -1280,7 +1280,7 @@ input::-moz-focus-inner {
 }
 @media only screen and (max-width: 700px) {
   .display-1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -1299,11 +1299,12 @@ input::-moz-focus-inner {
 }
 @media only screen and (max-width: 400px) {
   .display-1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
-
-
+.year {
+    margin-left: 125px;
+   }
 
 /* ===================================================================
  * # header styles

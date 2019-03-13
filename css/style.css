@@ -1343,8 +1343,8 @@ input::-moz-focus-inner {
   transition: all 0.3s ease-in-out;
 }
 .header-logo img {
-  width: 200px;
-  height: 150px;
+  width: 125px;
+  height: 100px;
 }
 
 
@@ -1629,8 +1629,8 @@ input::-moz-focus-inner {
     left: 30px;
   }
   .header-logo img {
-    width: 180px;
-    height: 34px;
+    width: 80px;
+    height: 54px;
   }
 
   .header-menu-toggle {
@@ -1715,7 +1715,7 @@ input::-moz-focus-inner {
 }
 .home-content h1 {
   font-family: "domine-bold", sans-serif;
-  font-size: 9rem;
+  font-size: 7rem;
   line-height: 1.1;
   margin-top: 0;
   color: #ffffff;

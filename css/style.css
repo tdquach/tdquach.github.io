@@ -7514,7 +7514,7 @@ h1, h2, h3, h4, h5,
 
 header {
   padding: 2em 0;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
@@ -7523,7 +7523,7 @@ header {
   @media (max-width: 767.98px) {
     header {
       padding: 2em 0;
-      position: absolute; } }
+      position: fixed; } }
   header .colorlib-navbar-brand {
     float: left; }
     header .colorlib-navbar-brand .colorlib-logo {
@@ -7535,7 +7535,7 @@ header {
       padding: 7px;
       display: block;
       text-align: center;
-      position: relative;
+      position: fixed;
       padding-left: 62px; }
       header .colorlib-navbar-brand .colorlib-logo .logo-img {
         width: 50px;

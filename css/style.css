@@ -1237,7 +1237,7 @@ input::-moz-focus-inner {
 
 .subhead {
   font-family: "metropolis-semibold", sans-serif;
-  font-size: 1.8rem;
+  font-size: 2.8rem;
   line-height: 1.3125;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
@@ -1270,17 +1270,17 @@ input::-moz-focus-inner {
 }
 @media only screen and (max-width: 800px) {
   .display-1 {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     margin-bottom: 1.8rem;
   }
 
   .subhead {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 }
 @media only screen and (max-width: 700px) {
   .display-1 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -1290,11 +1290,11 @@ input::-moz-focus-inner {
 }
 @media only screen and (max-width: 500px) {
   .display-1 {
-    font-size: 1.3rem;
+    font-size: 1.6rem;
   }
 
   .subhead {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -1671,7 +1671,7 @@ input::-moz-focus-inner {
 .s-home {
   width: 100%;
   height: 100%;
-  min-height: 786px;
+  min-height: 730px;
   background-color: transparent;
   position: relative;
   display: table;
@@ -2026,7 +2026,7 @@ html.no-csstransitions .home-content__main {
     font-size: 7.8rem;
   }
   .home-content h1 + p {
-    font-size: 3rem;
+    font-size: 2.4rem;
   }
   .home-content h1 + p::before {
     top: 2.4rem;
